@@ -1,0 +1,5 @@
+# Project exclude path
+.idea
+.iml
+.swp
+.onetoc2
